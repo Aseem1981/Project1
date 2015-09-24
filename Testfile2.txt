@@ -1,3 +1,0 @@
-Enter file contents here
-
-This is a second test file to check if github automatically does any changes to desktop repo 
